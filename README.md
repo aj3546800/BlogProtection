@@ -9,3 +9,7 @@ Kalau ada pertanyaan silahkan bisa kirim email yang aktif hanya di sini: [Sini](
 
 # Thanks
 Terimakasih kepada kontributor yang mau membantu atau yang melaporkan **BUG**
+
+# Demo
+Mohon maaf untuk demonya belum ada saat ini, Insya Allah kedepannya ada.
+Tinggal pasang aja di blog temen-temen buat demonya.
